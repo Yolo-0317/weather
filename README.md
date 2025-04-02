@@ -29,3 +29,7 @@ src/server/index.js
 
 - 接口: /geo/city/lookup
 - 前端直接访问和风天气的geo api有跨域问题，通过node服务进行转发
+
+## 页面截图
+
+![页面截图](./页面截图.png)
