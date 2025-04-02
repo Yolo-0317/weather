@@ -32,4 +32,4 @@ src/server/index.js
 
 ## 页面截图
 
-![页面截图](./页面截图.png)
+![页面截图](https://github.com/Yolo-0317/weather/blob/master/screenshort.png)
